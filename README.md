@@ -1,4 +1,4 @@
-# Electra Classification
+#Text Classification
 
 ## 概要
 以下二つのデータセットに対し、electra modelに分類Headerを追加して、いろいろ検証
